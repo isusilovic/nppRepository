@@ -1,0 +1,9 @@
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\bin\Debug\UtilitiesCalculator.Tests.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\bin\Debug\UtilitiesCalculator.Tests.pdb
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\bin\Debug\UtilitiesCalculator.Business.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\bin\Debug\UtilitiesCalculator.Business.pdb
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\obj\Debug\UtilitiesCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\obj\Debug\UtilitiesCalculator.Tests.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.Tests\obj\Debug\UtilitiesCalculator.Tests.pdb

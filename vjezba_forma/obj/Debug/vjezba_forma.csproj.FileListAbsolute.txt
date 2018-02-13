@@ -1,0 +1,27 @@
+c:\users\susha\documents\visual studio 2015\Projects\vjezba_forma\vjezba_forma\bin\Debug\vjezba_forma.exe.config
+C:\Users\susha\Documents\Visual Studio 2015\Projects\vjezba_forma\vjezba_forma\bin\Debug\vjezba_forma.exe
+C:\Users\susha\Documents\Visual Studio 2015\Projects\vjezba_forma\vjezba_forma\bin\Debug\vjezba_forma.pdb
+C:\Users\susha\Documents\Visual Studio 2015\Projects\vjezba_forma\vjezba_forma\obj\Debug\vjezba_forma.csprojResolveAssemblyReference.cache
+C:\Users\susha\Documents\Visual Studio 2015\Projects\vjezba_forma\vjezba_forma\obj\Debug\vjezba_forma.vjezba_forma.resources
+C:\Users\susha\Documents\Visual Studio 2015\Projects\vjezba_forma\vjezba_forma\obj\Debug\vjezba_forma.Properties.Resources.resources
+C:\Users\susha\Documents\Visual Studio 2015\Projects\vjezba_forma\vjezba_forma\obj\Debug\vjezba_forma.csproj.GenerateResource.Cache
+C:\Users\susha\Documents\Visual Studio 2015\Projects\vjezba_forma\vjezba_forma\obj\Debug\vjezba_forma.exe
+C:\Users\susha\Documents\Visual Studio 2015\Projects\vjezba_forma\vjezba_forma\obj\Debug\vjezba_forma.pdb
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\vjezba_forma.exe.config
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\obj\Debug\vjezba_forma.exe
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\obj\Debug\vjezba_forma.pdb
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\obj\Debug\vjezba_forma.csprojResolveAssemblyReference.cache
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\obj\Debug\vjezba_forma.vjezba_forma.resources
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\obj\Debug\vjezba_forma.Properties.Resources.resources
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\obj\Debug\vjezba_forma.csproj.GenerateResource.Cache
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\vjezba_forma.exe
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\vjezba_forma.pdb
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\EntityFramework.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\EntityFramework.SqlServer.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\UtilitiesCalculator.Dao.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\UtilitiesCalculator.Business.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\UtilitiesCalculator.Dao.pdb
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\EntityFramework.xml
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\EntityFramework.SqlServer.xml
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\bin\Debug\UtilitiesCalculator.Business.pdb
+E:\Edukacija\NRAKO\UtilitiesCalculator\vjezba_forma\obj\Debug\vjezba_forma.Racunarko.resources

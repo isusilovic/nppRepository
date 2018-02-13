@@ -1,0 +1,17 @@
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\nunit.engine.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\UtilitiesCalculator.NUnit.Tests.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\UtilitiesCalculator.NUnit.Tests.pdb
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\nunit.framework.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\UtilitiesCalculator.Business.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\UtilitiesCalculator.Business.pdb
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\nunit.framework.xml
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\obj\Debug\UtilitiesCalculator.NUnit.Tests.dll
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\obj\Debug\UtilitiesCalculator.NUnit.Tests.pdb

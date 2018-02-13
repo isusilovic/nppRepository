@@ -1,0 +1,14 @@
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\UtilitiesCalculator.Dao.dll.config
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\UtilitiesCalculator.Dao.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\UtilitiesCalculator.Dao.pdb
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\EntityFramework.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\EntityFramework.SqlServer.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\UtilitiesCalculator.Business.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\UtilitiesCalculator.Business.pdb
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\EntityFramework.xml
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\bin\Release\EntityFramework.SqlServer.xml
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\obj\Release\UtilitiesCalculator.Dao.csprojResolveAssemblyReference.cache
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\obj\Release\UtilitiesCalculator.Dao.Migrations.newMigration.resources
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\obj\Release\UtilitiesCalculator.Dao.csproj.GenerateResource.Cache
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\obj\Release\UtilitiesCalculator.Dao.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Dao\obj\Release\UtilitiesCalculator.Dao.pdb

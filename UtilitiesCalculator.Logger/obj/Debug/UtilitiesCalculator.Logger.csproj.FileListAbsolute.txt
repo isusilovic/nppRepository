@@ -1,0 +1,10 @@
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\bin\Debug\UtilitiesCalculator.Logger.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\bin\Debug\UtilitiesCalculator.Logger.pdb
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\obj\Debug\UtilitiesCalculator.Logger.csprojResolveAssemblyReference.cache
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\obj\Debug\UtilitiesCalculator.Logger.dll
+E:\Edukacija\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\obj\Debug\UtilitiesCalculator.Logger.pdb
+E:\Edukacija\ALGEBRA\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\bin\Debug\UtilitiesCalculator.Logger.dll
+E:\Edukacija\ALGEBRA\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\bin\Debug\UtilitiesCalculator.Logger.pdb
+E:\Edukacija\ALGEBRA\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\obj\Debug\UtilitiesCalculator.Logger.csprojResolveAssemblyReference.cache
+E:\Edukacija\ALGEBRA\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\obj\Debug\UtilitiesCalculator.Logger.dll
+E:\Edukacija\ALGEBRA\NRAKO\UtilitiesCalculator\UtilitiesCalculator.Logger\obj\Debug\UtilitiesCalculator.Logger.pdb
