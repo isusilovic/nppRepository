@@ -15,3 +15,4 @@ C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\D
 C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\bin\Debug\nunit.framework.xml
 C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\obj\Debug\UtilitiesCalculator.NUnit.Tests.dll
 C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\obj\Debug\UtilitiesCalculator.NUnit.Tests.pdb
+C:\Users\susha\Desktop\UtilitiesCalculator\UtilitiesCalculator.NUnit.Tests\obj\Debug\UtilitiesCalculator.UnitTests.csprojResolveAssemblyReference.cache
