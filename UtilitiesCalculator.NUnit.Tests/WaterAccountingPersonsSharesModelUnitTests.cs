@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-//using NUnit.Framework;
 using System;
 using UtilitiesCalculator.Business;
 using UtilitiesCalculator.Business.AccountingModels;
@@ -7,7 +6,7 @@ using UtilitiesCalculator.Business.AccountingModels;
 namespace UtilitiesCalculator.NUnit.Tests
 {
    [TestClass]
-    public class WaterAccountingPersonsSharesModelNUnitTests
+    public class WaterAccountingPersonsSharesModelUnitTests
     {
         private WaterAccountingPersonsSharesModel GetWaterAccountingPersonsSharesModel()
         {

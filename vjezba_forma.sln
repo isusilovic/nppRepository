@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesCalculator.Busines
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesCalculator.Logger", "UtilitiesCalculator.Logger\UtilitiesCalculator.Logger.csproj", "{5628A824-7A21-4967-9E65-16F5B486080E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesCalculator.Tests", "UtilitiesCalculator.Tests\UtilitiesCalculator.Tests.csproj", "{E6592B0E-9A02-4AC1-851A-EA209877A13D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesCalculator.UnitTests", "UtilitiesCalculator.NUnit.Tests\UtilitiesCalculator.UnitTests.csproj", "{9D443F93-CC3C-407F-8520-FAF6E8733510}"
 EndProject
 Global
@@ -37,10 +35,6 @@ Global
 		{5628A824-7A21-4967-9E65-16F5B486080E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5628A824-7A21-4967-9E65-16F5B486080E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5628A824-7A21-4967-9E65-16F5B486080E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E6592B0E-9A02-4AC1-851A-EA209877A13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6592B0E-9A02-4AC1-851A-EA209877A13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6592B0E-9A02-4AC1-851A-EA209877A13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6592B0E-9A02-4AC1-851A-EA209877A13D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9D443F93-CC3C-407F-8520-FAF6E8733510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9D443F93-CC3C-407F-8520-FAF6E8733510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D443F93-CC3C-407F-8520-FAF6E8733510}.Release|Any CPU.ActiveCfg = Release|Any CPU
