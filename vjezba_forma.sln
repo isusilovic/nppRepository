@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesCalculator.Logger"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesCalculator.UnitTests", "UtilitiesCalculator.NUnit.Tests\UtilitiesCalculator.UnitTests.csproj", "{9D443F93-CC3C-407F-8520-FAF6E8733510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxTest", "Tax13PercentTest\TaxTest.csproj", "{5CA358D6-BD6A-45AA-B9DC-58A968CC72A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesCalculator.TaxTest", "Tax13PercentTest\UtilitiesCalculator.TaxTest.csproj", "{5CA358D6-BD6A-45AA-B9DC-58A968CC72A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
